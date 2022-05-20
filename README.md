@@ -15,7 +15,7 @@ Ukoliko se rešite da sami dodate fajlove u repozitorijum, to možete uraditi na
 6. Dodajte fajlove svog projekta u direktorijum namenjen za projekat (po mogućstvu bez đubre fajlova poput `__pycache__`)
 7. Napišite nešto o svom projektu u README.md fajlu koji se pre toga nalazio u tom direktorijumu, poput koje su dodatne biblioteke potrebne i koje su kontrole
 8. Uradite *stage*: `git add .`
-9. Uradite *commit*: `git add -m "Ovde ide commit poruka."`
+9. Uradite *commit*: `git commit -m "Ovde ide commit poruka."`
 10. Sačekajte da dobijete mejl od GitHub sa pozivnicom u repozitorijum
 11. Prihvatite poziv
 12. Pokrenite `git push --set-upstream origin [projekat]` (gde je `[projekat]` isto kao ime vaše prethodno napravljene grane)
