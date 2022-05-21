@@ -1,3 +1,6 @@
 [submodule "flappy-bird"]
 	path = flappy-bird
 	url = https://github.com/Radoje17/FlappyBird.git
+[submodule "dino"]
+	path = dino
+	url = https://github.com/MilicaJovicic/Dino.git
