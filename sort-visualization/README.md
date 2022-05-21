@@ -3,3 +3,5 @@ Autor projekta je Ivan Gajić. Cilj projekta je vizuelizacija raznih algoritama 
 
 ## Potrebne biblioteke
 - `pygame`
+- `random`
+- `math`
