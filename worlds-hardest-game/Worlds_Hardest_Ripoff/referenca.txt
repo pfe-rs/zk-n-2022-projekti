@@ -1,0 +1,11 @@
+0 > prazno 
+1 > player
+2 > zid
+
+3 > gore blok
+4 > desno blok
+5 > dole blok
+6 > levo blok
+
+7 > exit
+8 > coin
